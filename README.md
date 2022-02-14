@@ -10,7 +10,7 @@
 {
   "value": "",
   "label": "Placeholder",
-  selected: true,
-  disabled: true,
+  "selected": true,
+  "disabled": true,
 }
 ]
