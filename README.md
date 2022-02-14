@@ -6,5 +6,9 @@
 {
   "value": "Option 2",
   "label": "Option 2"
+},
+{
+  "value": "",
+  "label": "Placeholder"
 }
 ]
