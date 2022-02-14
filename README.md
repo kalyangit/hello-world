@@ -9,6 +9,8 @@
 },
 {
   "value": "",
-  "label": "Placeholder"
+  "label": "Placeholder",
+  selected: true,
+  disabled: true,
 }
 ]
