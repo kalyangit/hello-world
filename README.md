@@ -11,6 +11,6 @@
   "value": "",
   "label": "Placeholder",
   "selected": true,
-  "disabled": true,
+  "disabled": true
 }
 ]
